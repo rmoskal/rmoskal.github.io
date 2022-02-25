@@ -1,0 +1,48 @@
+
+
+<div class="history-block">
+    <div class="div-block-103">
+        <div class="text-semi"><%- formatChron(length -count-1) %></div>
+    </div>
+    <div class="div-block-103 hyper">
+
+            <div class="text-regular bold">
+                <a href="<%- chron.link %>" target="_blank" class="text-regular linked bold"><%- chron.title %></a>
+            </div>
+    </div>
+    <div class="div-block-103">
+        <div class="div-block-105">
+
+        <% chron.roles.forEach(function(each) { %>
+            <div class="text-regular label-<%- each %>"><%- each %></div>
+        <% }); %>
+        </div>
+    </div>
+    <div class="div-block-103">
+        <div class="div-block-105">
+            <div class="text-regular spread"><%- chron.stack.join(' ') %></div>
+        </div>
+    </div>
+    <div class="div-block-103">
+        <div class="div-block-105">
+            <div class="text-regular"><%- chron.when %></div>
+        </div>
+    </div>
+    <div class="div-block-103 clear">
+        <div class="div-block-105">
+            <div class="text-regular truncate big"><%- chron.body %>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- <i class="fa-brands fa-java"></i>
+<i class="fa-brands fa-php"></i>
+<i class="fa-brands fa-python"></i> 
+<i class="fa-brands fa-npm"></i>
+
+
+-->

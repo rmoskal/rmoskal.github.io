@@ -1,0 +1,61 @@
+<html data-wf-domain="www.joshuakaplan.com" data-wf-page="5d05538885f49b624ca4c9bb"
+      data-wf-site="5a5edb7a60af320001319e4b" class=" w-mod-js">
+<head>
+    <%- include('partials/head')%>
+    <link href="/css/style.css"
+      rel="stylesheet" type="text/css">
+</head>
+<body class="body-2">
+<div class="content-area">
+  <div class="post">
+    <!-- Post Content -->
+    <div class="container">
+      <article>
+        <!-- Title date & tags -->
+        <div class="post-header">
+          <h1 class="entry-title">
+            <%- page.title || theme.default_post_title || "Untitled" %>
+            <% if (page.subtitle && page.subtitle.length) { %>
+              <p><%- page.subtitle %></p>
+            <% } %>
+          </h1>
+          <p class="posted-on">
+
+          </p>
+          <div class="tags-links">
+            <% if (page.tags) { %>
+              <p><%- page.tags %></p>
+            
+            <% } %>
+          </div>
+        </div>
+        <!-- Post Main Content -->
+        <div class="entry-content">
+          <%- body %>
+        </div>
+      </article>
+    </div>
+    <!-- Comments -->
+    <div class="container">
+
+    </div>
+    <!-- Pre or Next -->
+    <div class="nav-links">
+      <% if (page.prev) { %>
+        <div class="nav-previous">
+          <a href="<%- config.root %><%- page.prev.path %>" rel="prev"><span class="meta-arraw meta-arraw-left"></span> <%- __('prev')%></a>
+        </div>
+      <% } %>
+      <% if (page.next) { %>
+        <div class="nav-next">
+          <a href="<%- config.root %><%- page.next.path %>" rel="prev"><%- __('next')%> <span class="meta-arraw meta-arraw-right"></span></a>
+        </div>
+      <% } %>
+    </div>
+
+  </div>
+</div>
+<!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+
+</body>
+</html>

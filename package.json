@@ -1,0 +1,20 @@
+{
+  "name": "hey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "site.config.js",
+  "scripts": {
+    "start": "nanogen start",
+    "build": "nanogen build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "nanogen": "^0.4.2"
+  },
+  "dependencies": {
+    "marked": "^4.0.12"
+  }
+}

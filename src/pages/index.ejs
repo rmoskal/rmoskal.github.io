@@ -1,0 +1,55 @@
+<div class="div-block-110"><a href="#top" class="link-block w-inline-block"></a></div>
+<div id="top" class="headline">
+    <div class="top-50">
+        <div class="text-semi">
+            <img src="http://site.mostmedia.com/images/robby.jpg" width="100%"/>
+        </div>
+        <div class="div-block-107">
+            <div class="div-block-109"><a href="https://github.com/rmoskal" target="_blank"
+                                          class="text-regular bold info-link highlight">Github</a><a
+                    href="mailto:rmoskal@mostmedia.com" class="text-regular bold info-link highlight">Email</a><a
+                    href="https://stackoverflow.com/users/775345/robert-moskal" target="_blank" class="text-regular bold info-link highlight">SO</a>
+            </div>
+            <div class="div-block-108">
+                Painting by <a href="https://alvar.nyc">alvar.nyc</a>.
+                </div>
+        </div>
+    </div>
+    <div class="flex">
+        <div class="text-regular">
+            <p>I’ve been the driving force behind a great variety and quantity of software built for both the market and internal audiences. I excel at matching technical means with business ends to build innovative and stable software products that can evolve with changing opportunities and circumstances.</p>
+
+        </div>
+
+    </div>
+</div>
+<div class="text-huge provide-space">Chronology</div>
+<div class="experience-container">
+
+    <%
+    formatChron = value => value<10?'00'+value:'0'+value
+
+    templateList = _in => _in.join(' ')
+    
+    
+    %>   
+
+  <% site.chrons.forEach(function(chron, count) { %>
+    <%- include('partials/chronbox', {chron, count, length: site.chrons.length }) %>
+  <% }); %>
+
+</div>
+<div class="footer"></div>
+<div class="headline">
+    <div class="flex">
+        <div class="text-regular">Most Media © 2022<br></div>
+    </div>
+</div>
+
+<script>
+
+    document.querySelectorAll('.big').forEach(each => each.addEventListener('click',e=>{
+        e.target.classList.toggle("truncate")
+    }))
+    
+    </script>
