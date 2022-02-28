@@ -5,7 +5,7 @@ module.exports = {
   stack:['internal-tools', '<i class="fa-brands fa-microsoft"></i>', '<i title="java" class="fa-brands fa-java"></i>'],
   roles: ['principal', 'transformation'],
   body: `
-  Carried out custom application development for the research and development division of a gipharmaceutical company (along with a team of 1-4 other developers).
+  Carried out custom application development for the research and development division of this pharmaceutical company along with a team I put together.
 
   I originally won the business away from a poorly performing vendor and carried forward work for which internal IT resources were ill-suited.
   

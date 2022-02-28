@@ -6,9 +6,7 @@ module.exports = {
   roles: ['dev-partner', 'leader'],
   body: `
 
-  The original development team that created the on-line version of the IEEE magazine jumped ship leaving our partner in the lurch, unable to service an important client.
-
-Sometimes the problem with java development is the abundance of riches, especially in the hands of an inexperienced team. In reviewing the technology behind the magazine I found a snake pit: four web frameworks: Tapestry, Webwork, Vignette, and a home grown front controller; two different templating engines: Velocity and FreeMarker.
+  The team that created the on-line version of the IEEE magazine jumped ship leaving our partner in the lurch. Sometimes, the problem with java development is the abundance of riches, especially in the hands of an inxeperienced team. In reviewing the technology behind the magazine I found a snake pit: four web frameworks: Tapestry, Webwork, Vignette, and a home grown front controller; two different templating engines: Velocity and FreeMarker.
 
 It was all too much. Plus, the original application dated from 2004, forcing many architectural choices that seem wrongheaded in 2008. Many basic functions were built from scratch (and so hard to evolve), whereas today we could turn to any number of open source frameworks to accomplish more in a sustainable manner.
 

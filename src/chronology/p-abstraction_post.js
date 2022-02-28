@@ -2,9 +2,9 @@ module.exports = {
   title:`finding the right level of abstraction `, 
   link:'/finding-the-right-level-of-abstraction',
   when:'2010',
-  stack:['javascript', 'functional programming'],
+  stack:['architecture', '<i class="fa-brands fa-java"></i>'],
   roles: ['author'],
   body: `
-  I moved the Most Media web site to the latest version of Plone this week. It seems like a good opportunity to reflect on where the industry and my practice have moved in the last three years.
+    My thoughts on the state of web development in 2010. As usual I was wrong about many particulars (who still uses groovy?) but right about tendencies.
   `
 }
