@@ -5,8 +5,7 @@ module.exports = {
   stack:['B2C', '<i class="fa-brands fa-java"></i>'],
   roles: [ 'founder'],
   body: `
-  Like instgram....
-  Adventshare was a photo sharing application that presaged applications like Instagram, though intended for adventure travel companies and their patrons.
+  Like instagram, but for extreme sports practitioners, and 7 years too early (no really!).
 
   It needed to be bullet proof and able to support potentially thousands of simultaneous users. It needed a flexible architecture that could evolve in response to new opportunities.
   
