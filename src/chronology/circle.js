@@ -2,10 +2,10 @@ module.exports = {
   title:`cir.cl`, 
   link:'https://www.facebook.com/mycircl',
   when:'2014 – 2015',
-  stack:['node', 'neo4j', 'backbone'],
+  stack:['B2C', '<i class="fa-brands fa-js"></i>'],
   roles: ['leader'],
   body: `
-  I lead the engineering effort for this social re-commerce marketplace. Think craigslist 3.0 where community and transparency are valued above anonymity.
+  I led the engineering effort for this social re-commerce marketplace. Think craigslist 3.0 where community and transparency are valued above anonymity.
 
   The cir.cl archtecture builds on what I've learned on the Exorcists VS Demons RPG and is my second iteration on a large scale full-stack javascript application. We use express and backbone. Mongo, postgres, redis, and neo4j are our data-stores. The application makes extensive use of reactive techniques like out of request loop messaging, and event sourcing
   

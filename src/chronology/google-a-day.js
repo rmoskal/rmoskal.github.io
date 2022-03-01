@@ -2,7 +2,7 @@ module.exports = {
   title:`A Google a Day`, 
   link:'http://www.agoogleaday.com/',
   when:'2012',
-  stack:['gcloud', 'api-development', 'flask'],
+  stack:['B2C', 'GCLOUD', '<i class="fa-brands fa-python"></i>' ],
   roles: ['dev-partner'],
   body: `
   My development partner was presented with the opportunity to take over a plum Internet property, gamify it and to move it over to google +. The only hard requirement wast hat it had to be built using the google app engine (GAE) . My partner had gaming, design and development chops, but no experience with the google app engine, nor with python or java, the languages supported on the GAE.

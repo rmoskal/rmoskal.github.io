@@ -2,7 +2,7 @@ module.exports = {
   title:`Exorcists vs Demons`, 
   link:'https://evd-sandbox.herokuapp.com/#/battle-school',
   when:'2012 – 2014',
-  stack:['node', 'angular', 'heroku'],
+  stack:['B2C', 'game!', '<i class="fa-brands fa-js"></i>'],
   roles: ['principal', 'leader', 'founder'],
   body: `
   Leading the build of this browser based RPG is part of my ongoing collaboration with DarkRoast Media.

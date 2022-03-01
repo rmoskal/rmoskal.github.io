@@ -2,7 +2,7 @@ module.exports = {
   title:`konfigure`, 
   link:'https://github.com/rmoskal/konfigure',
   when:'2014',
-  stack:['open source', '<i class="fa-brands fa-js"></i>'],
+  stack:['<i title="open source" class="fa-brands fa-github"></i>', '<i class="fa-brands fa-js"></i>'],
   roles: ['author'],
   body: `
   Konfigure was a uitilty for publishing 12 factor applications to PAAS providers like Heroku

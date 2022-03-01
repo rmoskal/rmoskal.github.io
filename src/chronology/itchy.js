@@ -2,7 +2,7 @@ module.exports = {
   title:`Itchy Knows`, 
   link:'',
   when:'2012 – 2014',
-  stack:['B2C', 'flask'],
+  stack:['B2C', '<i class="fa-brands fa-python"></i>'],
   roles: [ 'founder', 'market-fit'],
   body: `
   I started coding itchy almost to the day that the Paul Berry, the Huffington Post CTO, started building Rebel Mouse, the social media publishing platform that started out as a hashtag aggregator.

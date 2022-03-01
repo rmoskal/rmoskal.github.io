@@ -5,6 +5,6 @@ module.exports = {
   stack:['collaboration'],
   roles: ['author'],
   body: `
-    An article about....
+    Misunderstanding is as big a drag on iteration as anything, and its' one you you can do something about if you just LISTEN!
   `
 }
