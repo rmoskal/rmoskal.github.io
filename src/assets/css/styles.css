@@ -1367,8 +1367,11 @@ div.spread {
     padding: 40px 30px 150px;
   }
 
+  ul {
+    margin-left: -1.2cm;
+  }
   .h1 {
-    font-size: 24px;
+    font-size: 22x;
   }
 
   .h1.link {
