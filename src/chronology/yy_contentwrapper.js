@@ -1,6 +1,6 @@
 module.exports = {
   title:`contentWrapper`, 
-  link:'https://www.company-histories.com/Caribiner-International-Inc-Company-History.html',
+  link: null,
   when:'1996 – 2001 ',
   stack:['B2B'],
   roles: ['founder', 'market-fit'],

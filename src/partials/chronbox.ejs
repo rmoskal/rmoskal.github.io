@@ -7,7 +7,12 @@
     <div class="div-block-103 hyper">
 
             <div class="text-regular bold">
+                <%if (chron.link)  {%>  
                 <a href="<%- chron.link %>" target="_blank" class="text-regular linked bold"><%- chron.title %></a>
+                <%} else {%>
+                    <div class="text-regular bold"><%- chron.title %></div>
+                <% } %>
+
             </div>
     </div>
     <div class="div-block-103">

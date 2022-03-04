@@ -1,13 +1,13 @@
 module.exports = {
   title:`idea`, 
-  link:'https://aboutus.com/Zivaguide.com',
+  link: null,
   when:'2006',
   stack:['B2B', '<i title="java" class="fa-brands fa-java"></i>'],
   roles: ['principal'],
   body: `
-  Digital technologies have changed the balance of power in the music business. IDEA helps independent artists and labels capitalize on this by distributing their own music.
+  For a while, it seemed like digital technologies would change the balance of power in the music business. IDEA helped independent artists and labels capitalize on this by allowing them to distribute their own music.
 
-  Integrating their application with the various digital services wasn’t so easy, requiring substantial development and testing effort to provision a new service. My charge was to create a system by which new services could be brought on line with minimal effort.
+  Integrating their application with the various digital services wasn’t so easy, requiring substantial development and testing effort to provision a new service. My charge was to create a system by which new services could be brought on-line easily.
   
   Publishing music to different services like iTunes and Napster involves similar steps, but with a fair amount of variation. Files must be encoded (but in different formats) and transferred (but using different protocols). Metadata must be transferred along with the music files (but each service requires a differently formatted XML file).
   

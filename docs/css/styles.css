@@ -1000,21 +1000,18 @@ body {
   line-height: 0.85;
 }
 
-.link {
-  display: block;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  color: #000;
-  font-size: 0.85vw;
-  line-height: 1.15;
-  font-weight: 400;
+
+
+.linked:after {
+  content: "\f0c1";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  display: inline-block;
   text-decoration: none;
+  padding-left: 3px;
 }
 
-.link:hover {
-  background-color: #000;
-  color: #fff;
-}
 
 .text-semi {
   font-size: 48px;

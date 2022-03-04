@@ -9,9 +9,9 @@ module.exports = {
 
   A limited budget (after all, their software is free to use!) necessitated an approach and a set of technologies that would maximize chances of reaching an ambitious goal of building two commercial quality web applications essentially for the price of one.
   
-  Sencha Ext JS provided a rich and consistent user experience without the need to over-design and fuss with front end elements. Crucially, we saved hundreds of hours of development time using a third party calendaring control. Our client likes java; we countered with Grails or play for greater productivity and compromised on a traditional Spring MVC application, exposed to Ext JS via RESTEasy JAX-RS web services. The nature of the headache information lent itself to being stored in the CouchDB nosql database.
+  Sencha Ext JS provided a rich and consistent user experience without the need to over-design and fuss with front end elements. Crucially, we saved hundreds of hours of development time using a third party calendaring control. The nature of the headache information lent itself to being stored in the CouchDB nosql database.
   
-  Perhaps the biggest win was using Maven to generate two sites (one for patients and one for health care professionals) from the same source. This went a long way towards getting the project done within tight budgetary constraints.
+  Perhaps our biggest win was in using Maven to generate two sites (one for patients and one for health care professionals) from the same source. This went a long way towards getting the project done within tight budgetary constraints.
   
 
   
