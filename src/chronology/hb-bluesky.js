@@ -13,11 +13,11 @@ module.exports = {
   
   I proposed, but management disposed. The project would be managed by a studio executive. I would help them put together an internal team and handle key portions of the architecture and the development effort.
   
-  We decided to leap-frog the market leading project management software by building ours on top of a true BPM engine and exposing its services to as many clients as possible with a RESTFUL API. This was necessary because the client for such a system could as well be a python or a Maya animation script as a web page.
+  We decided to leap-frog the market leading project management software by building ours on top of a  BPM engine and exposing its services to as many clients as possible with a RESTFUL API. This was necessary because the client for such a system could as well be a python or a Maya animation script as a web page.
   
   Working closely with studio leaders, I modeled their process with a two level work flow. One at a high level to track assets (and aggregates of assets) through the big steps in production process. And another at a low level to track the more free-form nature of the work as actually done. There could be many alternate high level work flows (controlled by an external business rules engine). The system would emit and store vast quantities of business activity data to be presented by a Business Activity Monitoring System (BAM). We would display key performance indicators (KPIs) for the current film and have a wealth of historical data to analyze across films.
   
-  Internal developers produced a flex/java based asset browser. I wrote a wrapper around the JBOSS JBPM work flow engine incorporating studio specific use cases, BAM instrumentation, and the two tiered system described above. I exposed this to clients via JAX-RS REST Services (built with JBOSS ReastEasy). When development of JBPM at JBOSS ceased, we first contributed fixes to the project and then quickly rewrote the services using Activiti BPMN.
+  Internal developers produced a flex/java based asset browser. I wrote a wrapper around the JBOSS JBPM work flow engine incorporating studio specific use cases, BAM instrumentation, and the two tiered system described above. I exposed this to clients via JAX-RS REST Services (built with JBOSS ReastEasy). When development of JBPM at Red Hat ceased, we first contributed fixes to the project and then quickly rewrote the services using Activiti BPMN.
   
   The project foundered because of lack of focus by the studio and secondarily for lack of resources.
   

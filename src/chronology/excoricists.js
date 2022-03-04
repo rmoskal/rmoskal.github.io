@@ -15,7 +15,7 @@ We kept up with changing creative, and game mechanics, by driving business rules
 
 We used the isogenic HTML 5 game engine to build our levels and integrated it with Angular.
 
-We're done with the battle mechanics and much of the isometric world. You can still play with the battle school: https://evd-sandbox.herokuapp.com/#/battle-school
+You can still play with the battle school: https://evd-sandbox.herokuapp.com/#/battle-school
 
   
   `
