@@ -11,7 +11,7 @@ module.exports = {
   
   Publishing music to different services like iTunes and Napster involves similar steps, but with a fair amount of variation. Files must be encoded (but in different formats) and transferred (but using different protocols). Metadata must be transferred along with the music files (but each service requires a differently formatted XML file).
   
-  I encapsulated this variation by creating a domain specific language for e-music publishing. The framework handles common tasks such as error handling, workflow and provides primitive operations for file encoding, art generation, file transfer, and metadata creation. Most variability is driven parametrically, via Spring configuration files, rather than programatically, eliminating most of the code that would otherwise need to be written (and tested) to integrate with each service. Metadata is generated via an XML pipeline which includes XLST processing.
+  I encapsulated this variation by creating a domain specific language for e-music publishing. The framework handles common tasks such as error handling, workflow and provides primitive operations for file encoding, art generation, file transfer, and metadata creation. Most variability is driven parametrically, via Spring configuration files, rather than programatically, eliminating most of the code that would otherwise need to be written (and tested) to integrate with each service.
   
   Provisioning a new service is a matter of stringing together a set of already written and tested tasks via a Spring configuration file. A new service can often be brought online in less than a day
   
