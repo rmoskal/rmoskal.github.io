@@ -2,7 +2,7 @@ module.exports = {
   title:`business.os`, 
   link:'https://frockhub.herokuapp.com/#/index',
   when:'2016 – 2018 ',
-  stack:['B2C', 'SAAS', 'GCLOUD', 'bpm', 'elasticsearch'],
+  stack:['SAAS', 'GCLOUD', 'bpm', 'elasticsearch'],
   roles: ['principal', 'leader'],
   long:true,
   body: `
