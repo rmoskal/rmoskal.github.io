@@ -4,6 +4,7 @@ module.exports = {
   when:'2107 – <b>Present</b>',
   stack:['GCLOUD', '<i class="fa-brands fa-php"></i>'],
   roles: ['principal', 'leader', 'transformation' ],
+  long:true,
   body: `
   This sprawling property launched in 2008 has massive link authority (24,320th in the world) and generates a steady stream of SEO driven income.
 

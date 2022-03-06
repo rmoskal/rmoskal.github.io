@@ -4,6 +4,7 @@ module.exports = {
   when:'2002',
   stack:['internal-tools', 'lcms', 'scorm', 'xml'],
   roles: ['principal', 'transformation'],
+  long:true,
   body: `
   I worked with the learning group at this leading software manufacturer to create a road map for integrating CBT (Computer Based Training) production with the companies global content management system. 
   Our goal was to create a single source of authoritative product information that could be used by both the documentation and learning groups, eliminating the cost of creating and maintaining redundant content. 

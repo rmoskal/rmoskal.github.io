@@ -4,6 +4,7 @@ module.exports = {
   when:'1994 – 1996 ',
   stack:['B2B'],
   roles: ['transformation', 'market-fit'],
+  long:true,
   body: `
 Put in place the place the people, processes, and technology that transformed this meetings company from a print/video/event business to an digital one.
 

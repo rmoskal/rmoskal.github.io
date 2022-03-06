@@ -2,6 +2,7 @@ module.exports = {
   title:`purdue pharma`, 
   link:'https://purduepharma.com/',
   when:'1999 – 2010',
+  long:true,
   stack:['internal-tools', '<i class="fa-brands fa-microsoft"></i>', '<i title="java" class="fa-brands fa-java"></i>'],
   roles: ['principal', 'transformation'],
   body: `

@@ -7,7 +7,7 @@ module.exports = {
   body: `
   Launched a number of mobile first "games" for clients like google and Publishers Clearing House using off-shore development resources.
   
-  In those days I was their CTO, though our collaboration continues to this day (2022).  Now I mainly shelp strategize new opportunities and ventures.
+  In those days I was their CTO, though our collaboration continues to this day (2022).  Now I mainly help strategize new opportunities and ventures.
     
   `
 }

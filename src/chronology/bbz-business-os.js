@@ -4,6 +4,7 @@ module.exports = {
   when:'2016 – 2018 ',
   stack:['B2C', 'SAAS', 'GCLOUD', 'bpm', 'elasticsearch'],
   roles: ['principal', 'leader'],
+  long:true,
   body: `
   This "startup" within PWC moved rapidly to create a new generation of software for field service and retail sales organizations. The goal was to replace behemoths like Great Plains and home grown systems with modern applications that utilized technologies such as big data, machine learning, and conversational interfaces.
 

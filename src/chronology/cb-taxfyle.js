@@ -4,6 +4,7 @@ module.exports = {
   when:'2016',
   stack:['B2C', 'SAAS'],
   roles: ['principal'],
+  long:true,
   body: `
   Helped this tax preparation startup get to market for the 2016 tax season. In 2022, they closed a $20mm series B round. Congratulations!
 

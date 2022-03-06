@@ -2,6 +2,7 @@ module.exports = {
   title:`A Google a Day`, 
   link:'http://www.agoogleaday.com/',
   when:'2012',
+  long:true,
   stack:['B2C', 'GCLOUD', '<i class="fa-brands fa-python"></i>' ],
   roles: ['dev-partner'],
   body: `

@@ -2,6 +2,7 @@ module.exports = {
   title:`zivaguide`, 
   link:'https://aboutus.com/Zivaguide.com',
   when:'2005',
+  long:true,
   stack:['B2C', '<i title="java" class="fa-brands fa-java"></i>'],
   roles: ['dev-partner', 'leader'],
   body: `

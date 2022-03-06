@@ -3,6 +3,7 @@ module.exports = {
   link:'https://oxfordre.com/africanhistory/view/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-121',
   when:'1999',
   stack:['academic'],
+  long:true,
   roles: ['principal', 'turn-around'],
   body: `
 

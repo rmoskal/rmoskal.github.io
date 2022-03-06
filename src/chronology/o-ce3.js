@@ -2,6 +2,7 @@ module.exports = {
   title:`ce3`, 
   link:'http://ce3inc.com/',
   when:'2010 – 2011',
+  long:true,
   stack:['B2B', 'internal-tools', '<i title="SharePoint, c#" class="fa-brands fa-microsoft"></i>' ],
   roles: ['principal', 'transformation'],
   body: `

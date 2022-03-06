@@ -4,6 +4,7 @@ module.exports = {
   when:'2014 – 2015',
   stack:['B2C', '<i class="fa-brands fa-js"></i>'],
   roles: ['leader'],
+  long:true,
   body: `
   I led the engineering effort for this social re-commerce marketplace. Think craigslist 3.0 where community and transparency are valued above anonymity.
 

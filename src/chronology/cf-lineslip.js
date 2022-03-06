@@ -4,6 +4,7 @@ module.exports = {
   when:'2015',
   stack:['B2B', 'SASS'],
   roles: ['principal'],
+  long:true,
   body: `
   I facilitated a series of workshops for the industry experts/founders intent on bringing efficiencies to the commercial insurance process.
 

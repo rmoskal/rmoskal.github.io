@@ -4,6 +4,7 @@ module.exports = {
   when:'2015 – 2106 ',
   stack:['B2C', 'elasticsearch', '<i class="fa-brands fa-python"></i>', '<i class="fa-brands fa-js"></i>'],
   roles: ['principal', 'turn-around', 'leader'],
+  long:true,
   body: `
   I led the turn-around of the development of this high fashion/micro-blogging application. The existing code base consisted of bits and pieces of technology with partial and often ill thought out attempts at integration.
 

@@ -4,6 +4,7 @@ module.exports = {
   when:'2003 – 2004',
   stack:['B2C', '<i class="fa-brands fa-java"></i>'],
   roles: [ 'founder'],
+  long:true,
   body: `
   Like instagram, but for extreme sports practitioners, and 7 years too early (no really!).
 

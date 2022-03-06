@@ -2,6 +2,7 @@ module.exports = {
   title:`Itchy Knows`, 
   link:'',
   when:'2012 – 2014',
+  long:true,
   stack:['B2C', '<i class="fa-brands fa-python"></i>'],
   roles: [ 'founder', 'market-fit'],
   body: `

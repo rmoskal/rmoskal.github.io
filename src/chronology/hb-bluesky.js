@@ -2,6 +2,7 @@ module.exports = {
   title:`bluesky`, 
   link:'https://disney.fandom.com/wiki/Blue_Sky_Studios',
   when:'2011 - 2012',
+  long:true,
   stack:['internal-tools', 'bpm', '<i class="fa-brands fa-java"></i>'],
   roles: ['principal', 'leader'],
   body: `

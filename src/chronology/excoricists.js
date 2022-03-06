@@ -4,6 +4,7 @@ module.exports = {
   when:'2012 – 2014',
   stack:['B2C', 'game!', '<i class="fa-brands fa-js"></i>'],
   roles: ['principal', 'leader', 'founder'],
+  long:true,
   body: `
   Leading the build of this browser based RPG is part of my ongoing collaboration with DarkRoast Media.
 

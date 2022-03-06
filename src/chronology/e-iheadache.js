@@ -4,6 +4,7 @@ module.exports = {
   when:'2013-2014',
   stack:['B2B', 'SAAS', '<i class="fa-brands fa-java"></i>'],
   roles: ['principal'],
+  long:true,
   body: `
   With a successful portfolio of free IOS and Blackberry based electronic headache diaries, our clients next move was a web based version with more sophisticated reporting and analysis capabilities that also allowed patients to share data with physicians and other health care providers.
 

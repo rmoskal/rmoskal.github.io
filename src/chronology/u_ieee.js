@@ -3,6 +3,7 @@ module.exports = {
   link:'https://spectrum.ieee.org/',
   when:'2006 – 2008',
   stack:['B2C', '<i title="java" class="fa-brands fa-java"></i>'],
+  long:true,
   roles: ['dev-partner', 'leader'],
   body: `
 

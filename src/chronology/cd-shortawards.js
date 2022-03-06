@@ -4,6 +4,7 @@ module.exports = {
   when:'2015',
   stack:['<i class="fa-brands fa-python"></i>'],
   roles: ['principal'],
+  long:true,
   body: `
   I merged two versions of the awards site (agencies and individuals) and helped support the creation of a third contest type: Shorty Awards for Social Good.
 

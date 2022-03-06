@@ -1,6 +1,7 @@
 module.exports = {
   title:`novartis`, 
   link:'http://www.agoogleaday.com/',
+  long:true,
   when:'2011',
   stack:['internal-tools', 'sharepoint', '<i class="fa-brands fa-microsoft"></i>'],
   roles: ['dev-partner'],

@@ -4,6 +4,7 @@ module.exports = {
   when:'2006',
   stack:['B2B', '<i title="java" class="fa-brands fa-java"></i>'],
   roles: ['principal'],
+  long:true,
   body: `
   For a while, it seemed like digital technologies would change the balance of power in the music business. IDEA helped independent artists and labels capitalize on this by allowing them to distribute their own music.
 

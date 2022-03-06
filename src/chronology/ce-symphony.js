@@ -4,6 +4,7 @@ module.exports = {
   when:'2015',
   stack:['<i class="fa-brands fa-docker"></i>', '<i class="fa-brands fa-php"></i>'],
   roles: ['principal', 'modernization'],
+  long:true,
   body: `
   An educational non-profit outsourced the development of a suite of applications/web sites. The organization and applications were thriving, but they suffered greatly from vendor lock-in.
 

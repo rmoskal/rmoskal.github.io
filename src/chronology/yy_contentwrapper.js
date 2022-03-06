@@ -3,6 +3,7 @@ module.exports = {
   link: null,
   when:'1996 – 2001 ',
   stack:['B2B'],
+  long:true,
   roles: ['founder', 'market-fit'],
   body: `
 

@@ -66,8 +66,9 @@
 
 <script>
 
-    document.querySelectorAll('.big').forEach(each => each.addEventListener('click',e=>{
-        e.target.classList.toggle("truncate")
+    document.querySelectorAll('.arrow').forEach(each => each.addEventListener('click',e=>{
+        e.target.firstElementChild.classList.toggle("truncate")
+    
     }))
     
     </script>
