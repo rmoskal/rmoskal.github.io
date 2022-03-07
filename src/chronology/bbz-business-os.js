@@ -10,11 +10,11 @@ module.exports = {
 
   Initially, I was to identify and enforce commonalities across the efforts of a large and fractious group of vendors.
   
-  I reviewed code bases and dev efforts, evangelizing for a common set of practices around the development of micro-services, continuous integration/deployment, containerization, search, ETL, and the use of BPM engines for the orchestration and business logic  A side goal was to maximize the use of google technologies, another sponsor,
+  I reviewed code bases and dev efforts, evangelizing for a common set of practices around the development of micro-services, continuous integration/deployment, containerization, search, ETL, and the use of BPM engines for the orchestration and business logic.
   
-  It soon became apparent that I was only adding to the noise in that role. I withdrew into one of the  product teams under the rubric of "fit-bit for work". As the new software stack gathered ever increasing amounts of data about workers we would provide individuals and management tools for meaningfully changing behavior in ways that improved organizational performance. Over the course of six months, we designed and built out several iterations of a product that we successfully piloted for two clients.
+  It soon became apparent that I was only adding to the cacophony in that role. 
   
-  The "fit-bit for work" product continues to be worked on at PWC (the only part of the project that we kept on after the larger effort was shut-down).
+  I  withdrew into one of the  product teams under the rubric of "fit-bit for work". As the new apps gathered ever increasing amounts of data we would provide individuals and management tools for meaningfully changing behavior in ways that improved organizational performance. Working with my friends at <a target="_blank" href="https://infobeans.com/philosophie/">Philosophie</a>, I got a taste of their flavor of agile, as we designed, developed, validated, and piloted server several iterations of the app.
   
     
   `
