@@ -4,6 +4,7 @@ module.exports = {
   when:'2014 – 2016',
   stack:['<i class="fa-brands fa-js"></i>'],
   roles: ['leader', 'market-fit'],
+  long:true,
   body: `
   Launched a number of mobile first "games" for clients like google and Publishers Clearing House using off-shore development resources.
   
