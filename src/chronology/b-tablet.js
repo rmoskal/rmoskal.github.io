@@ -4,6 +4,7 @@ module.exports = {
   when:'2019',
   stack:['B2C', 'elasticsearch', '<i class="fa-brands fa-python"></i>'],
   roles: ['principal' ],
+  long:true,
   body: `
 Elasticsearch constitutes the primary funnel for this boutique hotel site. I upgraded it from version 3 to 7 and made much needed improvments to the search behavior based on lessons learned from years of production use.
 

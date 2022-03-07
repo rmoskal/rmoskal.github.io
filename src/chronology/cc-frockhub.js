@@ -12,7 +12,6 @@ module.exports = {
 
   Initially, I supervised both the python developers coding the scrapers and built out the development/deployment infrastructure. As the team callesced,   I was able to focus on building out the back end domain model and api as well as evolving the the product direction with the management team. Finally, I directed the work of an off-shore data science team to put in place the product search using ES.
   
-  We were able to launch the application in a six month period.
     
   `
 }
