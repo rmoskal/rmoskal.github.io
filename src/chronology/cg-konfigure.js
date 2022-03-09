@@ -1,6 +1,6 @@
 module.exports = {
   title:`konfigure`, 
-  link:'https://github.com/rmoskal/konfigure',
+  link:'https://www.npmjs.com/package/konfigure',
   when:'2014',
   stack:['<i title="open source" class="fa-brands fa-github"></i>', '<i class="fa-brands fa-js"></i>'],
   roles: ['author'],
