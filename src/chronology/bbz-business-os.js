@@ -2,7 +2,10 @@ module.exports = {
   title:`business.os`, 
   link:'https://frockhub.herokuapp.com/#/index',
   when:'2016 – 2018 ',
-  stack:['SAAS', 'GCLOUD', 'bpm', 'elasticsearch'],
+  stack:['SAAS', 'GCLOUD', 
+  '<img alt="camunda bpm" title="camunda bpm" style="margin-Top:-3px" src="/images/camunda-icon.svg" width="16px"/>', 
+'<img alt="elasticsearch" title="elasticsearch" style="margin-Top:-3px" src="/images/elastic-elasticsearch.svg" width="16px"/>',
+],
   roles: ['principal', 'leader'],
   long:true,
   body: `

@@ -2,7 +2,8 @@ module.exports = {
   title:`frockhub`, 
   link:'https://frockhub.herokuapp.com/#/index',
   when:'2015 – 2106 ',
-  stack:['B2C', 'elasticsearch', '<i class="fa-brands fa-python"></i>', '<i class="fa-brands fa-js"></i>'],
+  stack:['B2C', 
+  '<img alt="elasticsearch" title="elasticsearch" style="margin-Top:-3px" src="/images/elastic-elasticsearch.svg" width="16px"/>', '<i class="fa-brands fa-python"></i>', '<i class="fa-brands fa-js"></i>'],
   roles: ['principal', 'turn-around', 'leader'],
   long:true,
   body: `

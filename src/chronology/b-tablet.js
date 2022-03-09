@@ -2,7 +2,9 @@ module.exports = {
   title:`tablet hotels`, 
   link:'https://www.tablethotels.com/',
   when:'2019',
-  stack:['B2C', 'elasticsearch', '<i class="fa-brands fa-python"></i>'],
+  stack:['B2C',  
+  '<img alt="elasticsearch" title="elasticsearch" style="margin-Top:-3px" src="/images/elastic-elasticsearch.svg" width="16px"/>', 
+  '<i class="fa-brands fa-python"></i>'],
   roles: ['principal' ],
   long:true,
   body: `

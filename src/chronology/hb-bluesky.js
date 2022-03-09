@@ -3,7 +3,9 @@ module.exports = {
   link:'https://disney.fandom.com/wiki/Blue_Sky_Studios',
   when:'2011 - 2012',
   long:true,
-  stack:['internal-tools', 'bpm', '<i class="fa-brands fa-java"></i>'],
+  stack:['internal-tools', 
+  '<img alt="jBPM, activity" title="jBPM activity" style="margin-Top:-3px" src="/images/camunda-icon.svg" width="16px"/>', 
+  '<i class="fa-brands fa-java"></i>'],
   roles: ['principal', 'leader'],
   body: `
   A prominent digital movie studio needed to improve governance over and the transparency of their film production process. In a dynamic creative environment, it was difficult for them to know things like: “How close are we to finishing this movie?”, “How efficient are we on this movie as opposed to the last?”, or even “Is this scene done?”.

@@ -2,7 +2,9 @@ module.exports = {
   title:`agreatertown`, 
   link:'https://agreatertown.com',
   when:'2107 – <b>Present</b>',
-  stack:['GCLOUD', '<i class="fa-brands fa-php"></i>'],
+  stack:['GCLOUD', 
+  '<img alt="elasticsearch" title="elasticsearch" style="margin-Top:-3px" src="/images/elastic-elasticsearch.svg" width="16px"/>',
+  '<i class="fa-brands fa-php"></i>'],
   roles: ['principal', 'turn-around', 'market-fit' ],
   long:true,
   body: `
