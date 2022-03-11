@@ -6,11 +6,11 @@ module.exports = {
   roles: ['principal'],
   long:true,
   body: `
-  I merged two versions of the awards site (agencies and individuals) and helped support the creation of a third contest type: Shorty Awards for Social Good.
+I merged the code for the agencies and individuals awards programs into one and helped to create a third contest type: Shorty Awards for Social Good.
 
-Provided on-going support as the company stages their yearly awards.
+I also worked a bit on evolving the data model and administrative interface for their other business: <a href="https://muckrack.com">https://muckrack.com</a>. Primarily, I made fancy tweaks to the django administrative interface.
 
-Also worked a bit to evolve the data model and administrative interface for their other product: https://muckrack.com/. Primarily, I made fancy tweaks to the django administrative interface.
+django-admin is great. I've used it to create internal tools many times.  flask-admin is almost as nice and has the advantage of not needing django.
 
   `
 }
