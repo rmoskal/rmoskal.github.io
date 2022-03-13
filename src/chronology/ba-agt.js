@@ -9,7 +9,7 @@ module.exports = {
   long:true,
   body: `
 
-  My involvement in A Greater Town began with my gifting the owner with some parts of Itchy Knows, my hashtag aggregator. We aggregated posts from various social media platforms on the AGT town pages.
+  My involvement with AGT began with a gift of some parts of Itchy Knows, my hashtag aggregator. We wanted to see whether aggregating social media posts on the AGT town pages would improve SEO.
 
   Soon I was doing more for this sprawling property that generates a substantial amount of SEO driven income. I think it started as a baby bird sort of thing. The codebase was crippled by technical debt and abuse accrued over the last 12 years. Moreover it was built using techniques that were already obsolete at the turn of the century and was riddled with security holes  I wanted to nurse it back to health!
 
