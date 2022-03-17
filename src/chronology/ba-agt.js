@@ -11,7 +11,7 @@ module.exports = {
 
   My involvement with AGT began with an gift/experiment. Could tech in Itchy Knows, my hashtag aggregator improve SEO for this sprawling directory site that lives and dies by organic search performance.
 
-  Soon I was doing a lot more. I felt inclined to help AGT in much the same way as a person naturally to nurse an injured bird back to health. The codebase was crippled by technical debt and outright abuse accrued over a dozen years. It was built using techniques that were already obsolete back then and was riddled with security holes.
+  Soon I was doing a lot more. I felt inclined to help AGT in much the same way children want to nurse an injured bird back to health. The codebase was crippled by technical debt and outright abuse accrued over a dozen years, and was riddled with security holes.
 
   I've worked with the founder to open up new lines of business and have  to lean startup practices like experimenting via minimal "build, measure, learn" iterations.  
   
