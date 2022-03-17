@@ -15,7 +15,7 @@ module.exports = {
 
   With my own two hands and with help we've managed rehabilitate it. I've worked with the founder to open up new lines of business and to adopt lean practices like experimenting via minimal "build, measure, learn" iterations.  
 
-  I myself have become schooled in the dark arts of SEO, pretty good against defending a busy site against attackers, and have become a tolerably good PHP programmer (if there were such a thing as idiomatic php, I don't think I write it).
+  I myself have become schooled in the dark arts of SEO, pretty good at defending a busy site against attackers, and have become a tolerably good PHP programmer (though if there's such a thing as idiomatic php, I don't think I write it).
   
   It's now a pretty solid php MVC application, but just large enough where it's too much to be maintained by a couple of solo practitioners.
 
