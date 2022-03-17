@@ -14,7 +14,7 @@ module.exports = {
   
   I identified the dependencies for each application and made them explicit through a series of docker and docker-compose files. A development environment, including the support database could be spun up by running a single script. We used docker and the docker-cloud to deploy to automatically deploy to digital ocean. 
 
-  Hosting costs went from $10,000 to $400 per month! The organization is no longer dependent on the original consultants and the savings go to improvments. New developers can be onboarded and be productive within hours. When part of the organization split off, we were able to migrate its entire infrastructure in hours.
+  Hosting costs went from $10,000 to $400 per month! The organization is no longer chained to the original vendor and savings go to improvments. New developers can be onboarded and be productive within hours.
   
     
   `
