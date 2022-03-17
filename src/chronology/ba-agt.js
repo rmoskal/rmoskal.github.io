@@ -9,9 +9,9 @@ module.exports = {
   long:true,
   body: `
 
-  My involvement with AGT began with a gift of some parts of Itchy Knows, my hashtag aggregator. We wanted to see whether aggregating social media posts on the AGT town pages would improve SEO.
+  My involvement with AGT began with an experiment to see whether parts of Itchy Knows, my hashtag aggregator, would improve SEO on this sprawling directory site that lives and dies by search engine traffic.
 
-  Soon I was doing more for this sprawling property that generates a substantial amount of SEO driven income. I think it started as a baby bird sort of thing. The codebase was crippled by technical debt and abuse accrued over the last 12 years. Moreover it was built using techniques that were already obsolete at the turn of the century and was riddled with security holes  I wanted to nurse it back to health!
+  Soon I was doing a lot more. I think it started as a baby bird sort of thing. The codebase was crippled by technical debt and abuse accrued over the last 12 years. Moreover it was built using techniques that were already obsolete at the turn of the century and was riddled with security holes  I wanted to nurse it back to health!
 
   I've worked with a number of off-shore teams to modernize the application. It's now a pretty standard php MVC application. 
 
