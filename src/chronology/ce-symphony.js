@@ -3,7 +3,7 @@ module.exports = {
   link:'https://bealearninghero.org/',
   when:'2015',
   stack:['<i class="fa-brands fa-docker"></i>', '<i class="fa-brands fa-php"></i>'],
-  roles: ['principal', 'modernization'],
+  roles: ['principal', 'turn-around'],
   long:true,
   body: `
   An educational non-profit outsourced the development of a suite of applications/web sites. The organization and applications were thriving, but they suffered mightily from vendor lock-in.

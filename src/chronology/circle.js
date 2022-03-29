@@ -2,7 +2,9 @@ module.exports = {
   title:`cir.cl`, 
   link:'https://www.facebook.com/mycircl',
   when:'2014 – 2015',
-  stack:['B2C', '<i class="fa-brands fa-js"></i>'],
+  stack:['B2C', 
+  '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>', 
+],
   roles: ['leader'],
   long:true,
   body: `

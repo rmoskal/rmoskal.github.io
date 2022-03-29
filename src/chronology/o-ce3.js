@@ -3,7 +3,9 @@ module.exports = {
   link:'http://ce3inc.com/',
   when:'2010 – 2011',
   long:true,
-  stack:['B2B', 'internal-tools', '<i title="SharePoint, c#" class="fa-brands fa-microsoft"></i>' ],
+  stack:['B2B', 'internal-tools', 
+  '<img alt="SharePoint" title="SharePoint" style="margin-Top:-3px" src="/images/sharepoint.svg" width="16px"/>',
+  '<i title="SharePoint, c#" class="fa-brands fa-microsoft"></i>' ],
   roles: ['principal', 'transformation'],
   body: `
   My client is a startup that handles outsourced clinical study management. This highly regulated and complex process absolutely requires sophisticated software automation.  Yet it is difficult for a small startup to spend what it takes to build CTMS (clinical study management systems) using traditional development methods.

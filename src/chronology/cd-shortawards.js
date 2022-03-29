@@ -2,7 +2,7 @@ module.exports = {
   title:`shorty awards`, 
   link:'https://shortyawards.com/',
   when:'2015',
-  stack:['<i class="fa-brands fa-python"></i>'],
+  stack:[  '<img alt="python" title="python" style="margin-Top:-3px" src="/images/python.svg" width="16px"/>'],
   roles: ['principal'],
   long:true,
   body: `

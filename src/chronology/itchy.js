@@ -3,7 +3,7 @@ module.exports = {
   link:'',
   when:'2012 – 2014',
   long:true,
-  stack:['B2C', '<i class="fa-brands fa-python"></i>'],
+  stack:['B2C',   '<img alt="python" title="python" style="margin-Top:-3px" src="/images/python.svg" width="16px"/>'],
   roles: [ 'founder', 'market-fit'],
   body: `
   Thinking there was value and perhaps a business opportunity in bringing some order to the chaotic world of social media, I started coding Itchy when everyone else started working on <a target= "_blank" href="https://www.flatheadenterprises.com/seo/hashtags-tint-vs-tagboard-vs-twubs-vs-postano-vs-rebel-mouse/"> on social media aggregators </a>, maybe a few days earlier.

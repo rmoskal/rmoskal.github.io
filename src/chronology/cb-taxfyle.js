@@ -2,7 +2,9 @@ module.exports = {
   title:`Taxfyle`, 
   link:'https://www.taxfyle.com',
   when:'2016',
-  stack:['B2C', 'SAAS'],
+  stack:['B2C', 'SAAS',
+  '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>', 
+],
   roles: ['principal'],
   long:true,
   body: `

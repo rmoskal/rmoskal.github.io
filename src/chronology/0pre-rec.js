@@ -2,7 +2,10 @@ module.exports = {
   title:`precision recommendation engine`, 
   link:'https://www.pre-rec.com/',
   when:'2019 – <b>Present</b> ',
-  stack:['B2B', 'SAAS','GCLOUD', '<i class="fa-brands fa-python"></i>', '<i class="fa-brands fa-js"></i>' ],
+  stack:['B2B', 'SAAS',
+  '<img alt="gcloud" title="gcloud" style="margin-Top:-3px" src="/images/gcloud.svg" width="16px"/>',
+  '<img alt="python" title="python" style="margin-Top:-3px" src="/images/python.svg" width="16px"/>', 
+  '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>'],
   roles: ['leader'],
   body: `
     Stay tuned for news about this exciting early stage start up.

@@ -2,7 +2,7 @@ module.exports = {
   title:`dark roast`, 
   link:'https://www.darkroastmedia.com',
   when:'2014 – 2016',
-  stack:['<i class="fa-brands fa-js"></i>'],
+  stack:[  '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>'],
   roles: ['leader', 'market-fit'],
   long:true,
   body: `

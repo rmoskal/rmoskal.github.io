@@ -4,7 +4,7 @@ module.exports = {
   when:'2019',
   stack:['B2C',  
   '<img alt="elasticsearch" title="elasticsearch" style="margin-Top:-3px" src="/images/elastic-elasticsearch.svg" width="16px"/>', 
-  '<i class="fa-brands fa-python"></i>'],
+  '<img alt="python" title="python" style="margin-Top:-3px" src="/images/python.svg" width="16px"/>'],
   roles: ['principal' ],
   long:true,
   body: `

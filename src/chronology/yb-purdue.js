@@ -3,7 +3,9 @@ module.exports = {
   link:'https://purduepharma.com/',
   when:'1999 – 2010',
   long:true,
-  stack:['internal-tools', '<i class="fa-brands fa-microsoft"></i>', '<i title="java" class="fa-brands fa-java"></i>'],
+  stack:['internal-tools', 
+  '<img alt="SharePoint" title="SharePoint" style="margin-Top:-3px" src="/images/sharepoint.svg" width="16px"/>',
+  '<i class="fa-brands fa-microsoft"></i>', '<i title="java" class="fa-brands fa-java"></i>'],
   roles: ['principal', 'transformation'],
   body: `
   Carried out custom application development for the research and development division of this pharmaceutical company along with a team I put together.

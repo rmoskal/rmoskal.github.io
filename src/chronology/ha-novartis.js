@@ -3,7 +3,9 @@ module.exports = {
   link:'http://www.agoogleaday.com/',
   long:true,
   when:'2011',
-  stack:['internal-tools', 'sharepoint', '<i class="fa-brands fa-microsoft"></i>'],
+  stack:['internal-tools', 
+  '<img alt="SharePoint" title="SharePoint" style="margin-Top:-3px" src="/images/sharepoint.svg" width="16px"/>',
+   '<i class="fa-brands fa-microsoft"></i>'],
   roles: ['dev-partner'],
   body: `
   The client required a sophisticated discussion forum to help solidify a far flung and diverse community of scientific researchers. The default SharePoint 2010 implementation didn't deliver on all of the requirements, and fell especially short in delivering community building features.

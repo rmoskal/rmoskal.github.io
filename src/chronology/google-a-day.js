@@ -3,7 +3,9 @@ module.exports = {
   link:'http://www.agoogleaday.com/',
   when:'2012',
   long:true,
-  stack:['B2C', 'GCLOUD', '<i class="fa-brands fa-python"></i>' ],
+  stack:['B2C', 
+  '<img alt="gcloud" title="gcloud" style="margin-Top:-3px" src="/images/gcloud.svg" width="16px"/>', 
+  '<i class="fa-brands fa-python"></i>' ],
   roles: ['dev-partner'],
   body: `
   My development partner was presented with the opportunity to take over a plum Internet property, gamify it and to move it over to google+. The only hard requirement was it had to run on the google app engine (GAE) . My partner had gaming, design and development chops, but no experience with the google app engine, nor with python or java, the languages supported on the GAE at the time.

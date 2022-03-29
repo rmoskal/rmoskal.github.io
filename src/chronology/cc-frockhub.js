@@ -3,7 +3,9 @@ module.exports = {
   link:'https://frockhub.herokuapp.com/#/index',
   when:'2015 – 2106 ',
   stack:['B2C', 
-  '<img alt="elasticsearch" title="elasticsearch" style="margin-Top:-3px" src="/images/elastic-elasticsearch.svg" width="16px"/>', '<i class="fa-brands fa-python"></i>', '<i class="fa-brands fa-js"></i>'],
+  '<img alt="elasticsearch" title="elasticsearch" style="margin-Top:-3px" src="/images/elastic-elasticsearch.svg" width="16px"/>', 
+  '<img alt="python" title="python" style="margin-Top:-3px" src="/images/python.svg" width="16px"/>', 
+  '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>'],
   roles: ['principal', 'turn-around', 'leader'],
   long:true,
   body: `

@@ -2,7 +2,9 @@ module.exports = {
   title:`Exorcists vs Demons`, 
   link:'https://evd-sandbox.herokuapp.com/#/battle-school',
   when:'2012 – 2014',
-  stack:['B2C', 'game!', '<i class="fa-brands fa-js"></i>'],
+  stack:['B2C', 'game!', 
+  '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>'
+],
   roles: ['principal', 'leader', 'founder'],
   long:true,
   body: `

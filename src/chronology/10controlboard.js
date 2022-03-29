@@ -2,7 +2,9 @@ module.exports = {
   title:`controlbaord.app`, 
   link:'https://www.controlboard.app/',
   when:'2020 – <b>Present</b> ',
-  stack:['B2B', 'SAAS', 'AWS', '<i class="fa-brands fa-js"></i>'],
+  stack:['B2B', 'SAAS',  '<img alt="aws" title="AWS" style="margin-Top:-3px" src="/images/aws.svg" width="16px"/>', 
+  '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>', 
+],
   roles: [ 'founder', 'leader'],
   body: `
   Transformed this leading  desktop contruction scheduling software into a software as service. No need to chase a market here,  we're on the way to $1MM ARR.
