@@ -10,7 +10,7 @@ module.exports = {
   body: `
   A prominent digital movie studio needed more insight into their production process. In a dynamic, creative environment, it was difficult to know things like: “How close are we to finishing this movie?”, “How efficient are we on this movie as opposed to the last?”, or even “Is this scene done?”.
 
-  Upon review, my unambiguous recommendation was for the studio to license the market leading studio management software. Top management disagreed and wanted to pursue a custom system. The studio had a strong tradition of in-house engineering; their process was unique; and they hoped to, perhaps, bring the software to market.
+  Upon review, my unambiguous recommendation was for the studio to license the market leading software for their vertical. Top management disagreed and wanted to pursue a custom system. The studio had a strong tradition of in-house engineering; their process was unique; and they hoped to, perhaps, bring the software to market.
   
   I counseled that they would have to devote substantial resources to the project to match even a subset of the commercial product's features, and that they were committing themselves to a long-term development effort to evolve the product to keep up with the needs of the internal users, let alone bringing a product to market.
   
