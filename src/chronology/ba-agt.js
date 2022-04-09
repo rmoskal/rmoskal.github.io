@@ -19,7 +19,7 @@ module.exports = {
 
   I myself have become schooled in the dark arts of SEO, pretty good at defending a busy site against attackers, and am now a competent PHP programmer (though if there's such a thing as idiomatic php, I don't think I write it).
   
-  AGT just large enough where it needs to maintained and evolved by an organization and a not a couple of solo practitioners. This year, I've begun transitioning  development to a new off-shore partner, and will continue my relationship with the founder as an advisor.
+  AGT just large enough where it needs to maintained and evolved by an organization and a not a couple of solo practitioners. This year, I've begun transitioning  development to a new partner, and will continue my relationship with the founder as an advisor.
   
   `
 }
