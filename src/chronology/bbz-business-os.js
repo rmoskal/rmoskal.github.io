@@ -16,11 +16,11 @@ module.exports = {
 
   Initially, I was to identify and enforce commonalities across the efforts of a large and fractious group of vendors.
   
-  I onboarded teams, reviewed code bases, and evangelizing for a common set of practices around the development of micro-services, continuous integration/deployment, containerization, search, ETL, and the use of BPM engines for the orchestration and business logic.
+  I on-boarded teams, reviewed code bases, and evangelizing for a common set of practices around the development of micro-services, continuous integration/deployment, containerization, search, ETL, and the use of BPM engines for the orchestration and business logic.
   
   It soon became apparent that I was only adding to the cacophony in that role. 
   
-  I  withdrew into one of the  product teams working under the rubric of "fit-bit for work". The apps would gather an ever increasing amount of data; we would provide individuals and management tools for meaningfully changing behavior in ways that improved organizational performance. Working with my friends at <a target="_blank" href="https://infobeans.com/philosophie/">Philosophie</a>, I got a taste of their flavor of agile, as we designed, developed, validated, and piloted server several iterations of the app.
+  I withdrew into one of the  product teams working under the rubric of "fit-bit for work". As the main applications gathered an ever increasing amount of data; we would provide individuals and management tools for meaningfully changing behavior in ways that improved performance. Working with my friends at <a target="_blank" href="https://infobeans.com/philosophie/">Philosophie</a>, I got a taste of their flavor of product development, as we designed, built, validated, and piloted several iterations of the app.
   
     
   `
