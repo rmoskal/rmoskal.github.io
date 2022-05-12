@@ -8,9 +8,9 @@ module.exports = {
   roles: ['principal' ],
   long:true,
   body: `
-Elasticsearch constitutes the primary funnel for this boutique hotel site. I upgraded from version 3 to 6.8 and made much needed improvements based on lessons learned from years of production use.
+Elasticsearch constitutes the primary funnel for this boutique hotel site. I upgraded from version 3 to 6.8 and made much needed improvements after teasing out lessons learned from years of production use.
 
-The upgrade was fairly straightforward, though both the ES mapping and the query syntax had changed considerably across 3 major versions. A good deal of the work was carried out at the python client level, including improvements to the imports from the operational data store.
+The upgrade was fairly straightforward, though both the ES mapping and the query syntax had changed considerably across 3 major versions. A good deal of the work was carried out at the python client level, including enhancements to the imports from the operational data store.
 
 We made significant improvements to to the auto-suggestion performance by taking advantage of the new autocomplete analyzer, refactoring the existing queries, and increasing the use of synonyms.
 
