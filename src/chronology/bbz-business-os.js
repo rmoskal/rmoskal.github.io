@@ -20,7 +20,7 @@ module.exports = {
   
   It soon became apparent that I was only adding to the cacophony in that role. 
   
-  I withdrew into one of the  product teams working under the rubric of "fit-bit for work". As the main applications gathered an ever increasing amount of data; we would provide individuals and management tools for changing behavior to measurably improve performance. Working with my friends at <a target="_blank" href="https://infobeans.com/philosophie/">Philosophie</a>, I got a taste of their flavor of product development, as we designed, built, validated, and piloted several iterations of the app.
+  I withdrew into one of the  product teams working under the rubric of "fit-bit for work". As the main applications gathered an ever increasing amount of data, we would provide individuals and management tools for changing behavior to measurably improve performance. Working with my friends at <a target="_blank" href="https://infobeans.com/philosophie/">Philosophie</a>, I got a taste of their flavor of product development, as we designed, built, validated, and piloted several iterations of the app.
   
     
   `
