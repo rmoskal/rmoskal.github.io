@@ -7,9 +7,6 @@ module.exports = {
 ],
   roles: [ 'founder', 'leader'],
   body: `
-  Transformed this leading  desktop construction scheduling software into a software as service. 
-  
-  The company is bootstrapped. All the principals code. No need to chase a market here,  we're on the way to $1MM ARR.
-  
+  Transformed this leading  desktop construction scheduling software into a software as service. The company is bootstrapped. All the principals code. No need to chase a market here,  we're on the way to $1MM ARR.
   `
 }
