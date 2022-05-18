@@ -1,5 +1,5 @@
 module.exports = {
-  title:`controlbaord.app`, 
+  title:`controlboard.app`, 
   link:'https://www.controlboard.app/',
   when:'2020 – <b>Present</b> ',
   stack:['B2B', 'SAAS',  '<img alt="aws" title="AWS" style="margin-Top:-3px" src="/images/aws.svg" width="16px"/>', 
