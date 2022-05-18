@@ -1,6 +1,6 @@
 module.exports = {
   title:`lineslip solutions`, 
-  link:'https://github.com/rmoskal/konfigure',
+  link:'https://www.lineslipsolutions.com/',
   when:'2015',
   stack:['B2B', 'SASS'],
   roles: ['principal'],
