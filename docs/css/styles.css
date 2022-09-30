@@ -23,6 +23,7 @@ body {
   display: flex;
   max-width: 800px;
   margin-top: 60px;
+  border: dotted;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
