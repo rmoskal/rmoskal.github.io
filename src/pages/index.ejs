@@ -68,8 +68,30 @@
 <script>
 
     document.querySelectorAll('.arrow').forEach(each => each.addEventListener('click',e=>{
+        console.log(  e.target.firstElementChild)
         e.target.firstElementChild.classList.toggle("truncate")
     
     }))
+
+    document.body.onload = function() {
+        const params = new URLSearchParams(window.location.search);
+        let items = params.get("items");
+        if (!items)
+            return 
+
+           
+        items = items.split(',').map(o=>`c${o}`).forEach(
+            o=>{
+                el = document.getElementById(o)
+                const foo = el.children;
+                console.log('MMMM', foo[5].firstElementChild.firstElementChild.classList.toggle("truncate"))
+                el.style.border = 'dashed';
+                el.style.borderWidth = '2px';
+                console.log(el)
+            }
+        )
+
+}
+
     
     </script>
