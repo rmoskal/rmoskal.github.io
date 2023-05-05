@@ -6,7 +6,14 @@ module.exports = {
   '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>', 
 ],
   roles: [ 'founder', 'leader'],
+  long:true,
   body: `
-  Transformed this leading  desktop construction scheduling software into a ultra-modern SAAS. The company is bootstrapped. All the principals code. No need to chase a market here,  we're on the way to $1MM ARR.
+  Transformed this leading  desktop construction scheduling software into an ultra-modern SAAS. 
+  
+  We are self-funded and each principal contributes to all aspects of the business, including coding. 
+  
+  Suddenly I'm an SAAS operator, and things like customer acquisition cost, sales funnels, and customer lifetime value are no longer as abstract as they once were.
+
+  
   `
 }

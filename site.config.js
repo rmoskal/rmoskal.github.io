@@ -32,7 +32,7 @@ function pLog(_in, ...more) {
 module.exports = {
   build: {
     srcPath: './src',
-    outputPath: './public'
+    outputPath: './docs'
   },
   site: {
     title: 'Nanogen site',
