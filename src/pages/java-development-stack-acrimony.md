@@ -6,7 +6,7 @@ layout: post
 ---
 The buzz has it that Java is old hat for web development, that'll it'll soon be eclipsed by LAMP stack or more likely Ruby on Rails. Yet for the kind of applications I'm often called on to deliver, something on which a pure-play internet start-up might run its business, I find myself turning to Java more and more.
 
-Maybe the problem is the embarrassment of riches.  You can choose between a half  dozen open source and proprietary frameworks for most everything a typical application needs to do: object relational mapping, creating web pages, consuming web services, templating.  There's so much code out there that if you're writing a lot of your own, you're probably doing something wrong.  But it certainly makes it difficult to come up with an acronym.  In this post I'm going to describe a Java development stack that I think as productive as anything  out there.  As for an acronym, I'll probably proppose a algorithm for constructing them, but will leave the any serious acronym development work as an exercise the to the reader.
+Maybe the problem is the embarrassment of riches.  You can choose between a half  dozen open source and proprietary frameworks for most everything a typical application needs to do: object relational mapping, creating web pages, consuming web services, templating.  There's so much code out there that if you're writing a lot of your own, you're probably doing something wrong.  But it certainly makes it difficult to come up with an acronym.  In this post I'm going to describe a Java development stack that I think as productive as anything  out there.  As for an acronym, I'll probably propose a algorithm for constructing them, but will leave the any serious acronym development work as an exercise the to the reader.
 
 Spring and Hibernate have become truly indispensable to me in my development practice, enabling me to deliver ever more significant applications faster and with less and less effort. It seems like I'm in touch with the zeitgeist on this. I see scores of web-sites, blogs, and books touting "better, faster, lighter" Java.  I even use them for my .net projects and there's more and more interest in spring and hibernate within that community as well.
 
@@ -16,19 +16,19 @@ At first I was skeptical about Spring. Inversion of control, composition, and de
 
 ### Hibernate
 
-When circumstances allow,  I'll choose Hibernate for object relational mapping.  Hibernate just does its job well, especially with release 3  and the ability to directly annotate domain classes instead of creating xml mapping files. I needed little prompting to give up both entity beans and  my home-grown persistence layer.  Of course where there's no need to back a significant domain model with a relational database, Hibernate drops out of the equation as do any of the other java mapping tools I could have picked.  Still, applications are so commonly backed by a database that an ORM component has to be considered as a core part of any java development stack. I think Hibernate has reached a tipping point in terms of popularity, to where it's the de facto standard for java ORM; much in the same was as Struts has been the standard for the web tier.
+When circumstances allow,  I'll choose Hibernate for object relational mapping.  Hibernate just does its job well, especially with release 3  and the ability to directly annotate domain classes instead of creating xml mapping files. I needed little prompting to give up both entity beans and  my home-grown persistence layer.  Of course where there's no need to back a significant domain model with a relational database, Hibernate drops out of the equation as do any of the other java mapping tools I could have picked.  Still, applications are so commonly backed by a database that an ORM component has to be considered as a core part of any java development stack. I think Hibernate has reached a tipping point in terms of popularity, to where it's the de facto standard for java ORM; much in the same way as Struts has been the standard for the web tier.
 
 ### ActiveMQ
 
 Most significant applications can benefit from a dose of asynchronicity. Nothing makes separation of concerns easier to implement on the back end. In addition to ensuring a reliable connection to external systems, JMS functions as an application service bus which, combined with the sort of [workflows you can create with Spring](http://www.javaworld.com/javaworld/jw-04-2005/jw-0411-spring.html), gives you the hooks you need to easily evolve an application over time.
 
-There are many propprietary JMS implementations, but ActiveMQ is fast, free and supports clustering, peer networks, discovery, TCP, SSL, multicast, persistence, and XA transactions. It also integrates with scripting languages and crosses the .net divide via Open Wire.
+There are many proprietary JMS implementations, but ActiveMQ is fast, free and supports clustering, peer networks, discovery, TCP, SSL, multicast, persistence, and XA transactions. It also integrates with scripting languages and crosses the .net divide via Open Wire.
 
 ### Tomcat
 
 Until recently I'd almost always recommend a full-blown J2EE server to my clients for two reasons.  None of the open source JMS implementations seemed truly ready for prime time, so you'd use one that came with a proprietary server like WebSphere, WebLogic, or Oracle. Or you'd use JBoss.  Plus it always seemed to me that message driven beans seemed like the most elegant wrapper around JMS (and the only part of the J2EE spec that seemed worth holding onto for my purposes).  With the maturation of ActiveMQ and Spring 2.0 providing a nice wrapper around JMS we can eliminate the J2EE container for the vast majority of applications.
 
-Why not use Tomcat? It's ubiquitous and free and perfornance is very good in the latest versions.  If you don't like Tomcat, try Jetty.
+Why not use Tomcat? It's ubiquitous and free and performance is very good in the latest versions.  If you don't like Tomcat, try Jetty.
 
 ### Wicket?
 
@@ -98,8 +98,8 @@ You have to be careful reading Wicket code,  it leads you to make liberal use o
 
 ### Conclusion
 
-I'm not saying the java stack is always the best solution. For simple CRUD applications backed by a database, whose schema I control Ruby on Rails seems ubeatable.  In many situations I recommend eschewing a traditional database entirely. Zope/Plone works well for portal sites and uses the Zope object oriented data store. You can easily spin out new out new content types and get ui screens, persistence, workflows, permissions, etc for free.  In a MS shop Sharepoint provides similar advantages.
+I'm not saying the java stack is always the best solution. For simple CRUD applications backed by a database, whose schema I control Ruby on Rails seems unbeatable.  In many situations I recommend eschewing a traditional database entirely. Zope/Plone works well for portal sites and uses the Zope object oriented data store. You can easily spin out new out new content types and get ui screens, persistence, workflows, permissions, etc for free.  In a MS shop Sharepoint provides similar advantages.
 
 But for significant applications, with a rich domain model, complex and variable workflows, complex integration requirements, and a need to evolve, Spring-Hibernate-ActiveMQ seem like an unbeatable base.  If you're building a web app hen pile Wicket and Tomcat on top. Do whatever else needs doing by selecting from the incredible variety of Java libraries: for templating you can't go wrong with Velocity or FreeMarker, for XSLT try Xalan or Saxon.
 
-So I might call an application built with Spring, Hibernate, ActiveMQ, Wicket, and running on Tomcat a SWATH application.  But if I subsitute JettyI get WAIJS and so on. It seems impossible to get a handle on a stable acronym. All I can think of is to form the first or last "syllable" of our acronym from the Spring, Hibernate, ActiveMQ troika.  So SHA or ASH, then to optionally pile additional letters on the front or the back _pro re nata_.
+So I might call an application built with Spring, Hibernate, ActiveMQ, Wicket, and running on Tomcat a SWATH application.  But if I substitute JettyI get WAIJS and so on. It seems impossible to get a handle on a stable acronym. All I can think of is to form the first or last "syllable" of our acronym from the Spring, Hibernate, ActiveMQ troika.  So SHA or ASH, then to optionally pile additional letters on the front or the back _pro re nata_.
