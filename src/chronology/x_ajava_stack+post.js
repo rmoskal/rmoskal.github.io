@@ -2,6 +2,7 @@ module.exports = {
   title:`java stack acrimony`, 
   link:'/java-development-stack-acrimony',
   when:'2007',
+  long:true,
   stack:['architecture'],
   roles: ['author'],
   body: `
