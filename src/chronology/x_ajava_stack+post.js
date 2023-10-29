@@ -5,6 +5,11 @@ module.exports = {
   stack:['architecture'],
   roles: ['author'],
   body: `
-  Me, standing up for Java as a web development stack. See what I got right and what I got wrong. 
-  `
+  Me, championing Java as a web development stack in the face of rise of Ruby on Rails.
+   It was the rant of java developer hoping to use the same tools everywhere. In fact the opposite happened. 
+   Javascript colonized the backend, and for the most part, for the better!
+
+   Biggest mistake: placing a bet on the  Wicket development framework.  
+   I foisted an number of Wicket applications on clients who then had difficulty finding people to maintain them.
+      `
 }
