@@ -4,6 +4,7 @@ module.exports = {
   when:'2020 – <b>Present</b> ',
   stack:['B2B', 'SAAS',  '<img alt="aws" title="AWS" style="margin-Top:-3px" src="/images/aws.svg" width="16px"/>', 
   '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>', 
+  '<img alt="React" title="React" style="margin-Top:-3px" src="/images/react.png" width="16px"/>'
 ],
   roles: [ 'founder', 'leader'],
   long:true,

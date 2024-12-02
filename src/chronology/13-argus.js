@@ -2,8 +2,7 @@ module.exports = {
     title:`CollectionSpace to Argus Migration`, 
     link:'https://www.controlboard.app/',
     when:'2023',
-    stack:['ETL']
-  ,
+    stack:['ETL'],
     roles: [ 'principal'],
     long:false,
     body: `
