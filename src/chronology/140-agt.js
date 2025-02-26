@@ -19,7 +19,7 @@ module.exports = {
   
   Along the way, I've become schooled in issues that arise when you have a statistically significant number of web pages (especially with regard to SEO), pretty good at defending a busy site against attackers, and am now a competent PHP programmer (though if there's such a thing as idiomatic php, I don't think I write it).
   
-  Day to today operation of AGT is now in the hands of a team at <a target= "_blank" href="https://august99.com/">August 99</a> who are also strategic partner as Drew pivots into proptech. I continue as an advisor and fractional CTO.
+  Day to today operation of AGT is now in the hands of a team at <a target= "_blank" href="https://august99.com/">August 99</a> who are also strategic partner as Drew pivots into prop-tech. I continue as an advisor and fractional CTO.
   
   `
 }
