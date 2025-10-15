@@ -4,7 +4,7 @@ module.exports = {
   when:'2019 – 2020',
   stack:['fCTO, Product'],
   roles: ['fCTO, ' ],
-  long:true,
+  long:false,
   body: `
   First I led the development effort of Playground Physics app for the NY Hall of Science along with my friends at <a href="https://www.bluetelescope.com/" target="_blank"> Blue Telescope</a>. We used am off-shore development team.
 
