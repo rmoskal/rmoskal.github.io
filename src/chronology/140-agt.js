@@ -1,7 +1,7 @@
 module.exports = {
   title:`agreatertown`, 
   link:'https://agreatertown.com',
-  when:'2107 – <b>Present</b>',
+  when:'2017 – <b>Present</b>',
   stack:[
     
     '<img alt="gcloud" title="gcloud" style="margin-Top:-3px" src="/images/gcloud.svg" width="16px"/>', 
