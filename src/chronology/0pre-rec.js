@@ -9,6 +9,6 @@ module.exports = {
   '<img alt="React" title="React" style="margin-Top:-3px" src="/images/react.png" width="16px"/>'],
   roles: ['leader'],
   body: `
-    Stay tuned for news about this exciting early stage start up.
+    Stay tuned for news about this exciting fin-tech venture. We're swinging for the fences!
   `
 }
