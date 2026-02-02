@@ -84,11 +84,12 @@
             return 
 
            
-        items = items.split(',').map(o=>`c${o}`).forEach(
+        items.split(',').map(o=>`c${o}`).forEach(
             o=>{
                 el = document.getElementById(o)
-                const foo = el.children;
-                foo[5].firstElementChild.firstElementChild.classList.toggle("truncate")
+                if (!el) return;
+                const bodyDiv = el.querySelector('.truncate');
+                if (bodyDiv) bodyDiv.classList.remove("truncate");
                 el.style.border = 'dashed';
                 el.style.borderWidth = '2px';
             }
