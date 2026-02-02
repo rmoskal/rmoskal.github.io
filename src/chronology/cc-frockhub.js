@@ -1,7 +1,7 @@
 module.exports = {
   title:`frockhub`, 
   link:'https://frockhub.herokuapp.com/#/index',
-  when:'2015 – 2106 ',
+  when:'2015 – 2016',
   stack:['B2C', 
   '<img alt="python" title="python" style="margin-Top:-3px" src="/images/python.svg" width="16px"/>', 
   '<img alt="javascript" title="javascript" style="margin-Top:-3px" src="/images/js.svg" width="16px"/>',
