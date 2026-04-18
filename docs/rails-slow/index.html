@@ -81,5 +81,12 @@
 </div>
 <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
 
+
+<script>
+  (function() {
+    const ws = new WebSocket(`ws://${location.host}`);
+    ws.onmessage = () => location.reload();
+  })();
+</script>
 </body>
 </html>

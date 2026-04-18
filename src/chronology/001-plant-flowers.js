@@ -2,7 +2,7 @@ module.exports = {
   title:`Software Innovation in an Agentic Age`, 
   link:'https://stripmall.software/blog/plant-a-thousand-flowers/',
   when:'2026',
-  stack:['craft', 'ai'],
+  stack:['<i class="fa-solid fa-pen-nib"></i>', 'craft', 'ai'],
   roles: ['author'],
   long:false,
   body: `

@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lodash": "^4.17.21",
-    "nanogen": "^0.4.2"
+    "lodash": "^4.18.1",
+    "nanogen": "^0.4.6"
   },
   "dependencies": {
     "marked": "^4.0.12"

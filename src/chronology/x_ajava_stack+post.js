@@ -3,7 +3,7 @@ module.exports = {
   link:'/java-development-stack-acrimony',
   when:'2007',
   long:true,
-  stack:['architecture'],
+  stack:['<i class="fa-solid fa-pen-nib"></i>', 'architecture'],
   roles: ['author'],
   body: `
   Me, championing Java as a web development stack in the face of rise of Ruby on Rails.
