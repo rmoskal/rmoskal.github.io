@@ -692,21 +692,30 @@ body {
 
 /* Intro copy: larger across the board, no list bullets */
 #top .flex .text-regular {
-  font-size: 18px;
-  line-height: 1.3;
+  font-size: 20px;
+  line-height: 1.35;
 }
 
 #top .flex .text-regular h3 {
-  font-size: 24px;
+  font-size: 28px;
   margin: 0.6em 0 0.2em;
 }
 
 #top .flex .text-regular p {
-  margin: 0 0 0.7em;
+  margin: 0 0 0.8em;
+}
+
+#top .flex .text-regular a {
+  color: #000;
+  font-weight: 500;
+}
+
+#top .flex .text-regular a:hover {
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 #top .div-block-107 .text-regular.bold.info-link {
-  font-size: 18px;
+  font-size: 20px;
   padding: 3px 10px 4px;
 }
 
