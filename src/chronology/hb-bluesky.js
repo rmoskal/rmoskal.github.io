@@ -20,7 +20,7 @@ module.exports = {
   
   Working closely with studio leaders, I modeled their process with a two level work flow. One at a high level to track assets (and aggregates of assets) through the big steps in production process. And another at a low level to track the more free-form nature of the work as actually done. There could be many alternate high level work flows (controlled by an external business rules engine). The system emitted and stored vast quantities of business activity data to be presented by a Business Activity Monitoring System (BAM). We would display key performance indicators (KPIs) for the current film and have a wealth of historical data to analyze across films.
   
-  The team I staffed produced a flex/java based asset management system. I wrote a wrapper around the JBOSS JBPM work flow engine incorporating studio specific use cases, BAM instrumentation, and the two tiered system described above. I exposed this to clients via JAX-RS REST Services (built with JBOSS ReastEasy). When development of JBPM at Red Hat ceased, we first contributed fixes to the project and then quickly migrated the services to Activiti BPM.
+  The team I staffed produced a flex/java based asset management system. I wrote a wrapper around the JBOSS JBPM work flow engine incorporating studio specific use cases, BAM instrumentation, and the two tiered system described above. I exposed this to clients via JAX-RS REST Services (built with JBOSS RestEasy). When development of JBPM at Red Hat ceased, we first contributed fixes to the project and then quickly migrated the services to Activiti BPM.
   
   After a year and a half of effort we shuttered the project due to the lack of focus by the studio and secondarily for lack of resources.
   
