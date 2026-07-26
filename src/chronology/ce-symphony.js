@@ -12,7 +12,7 @@ module.exports = {
   
   The suite was created in symfony2 and used compose to handle dependencies. However this didn’t account for all the operating system level dependencies, not to mention the complete python, ruby, and java environments the symfony toolchain requires. That's one crazy toolchain, btw!
   
-  Putting on my detective hat, I identified the dependencies for each application and made them explicit through a series of docker and docker-compose files. A development environment, including the support database could be spun up by running a single script. We used docker and the docker-cloud to deploy to automatically deploy to digital ocean. 
+  Putting on my detective hat, I identified the dependencies for each application and made them explicit through a series of docker and docker-compose files. A development environment, including the support database could be spun up by running a single script. We used docker and the docker-cloud to automatically deploy to digital ocean. 
 
   Hosting costs went from $10,000 to $400 per month! The organization is no longer chained to the original vendor and savings go to improvements. New developers can be on-boarded and be productive within hours.
   

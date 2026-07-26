@@ -5,6 +5,6 @@ module.exports = {
   stack:['<i class="fa-solid fa-pen-nib"></i>', 'collaboration'],
   roles: ['author'],
   body: `
-    Misunderstanding is as big a drag on iteration as anything, and its' one you you can do something about if you just LISTEN!
+    Misunderstanding is as big a drag on iteration as anything, and it's one you can do something about if you just LISTEN!
   `
 }

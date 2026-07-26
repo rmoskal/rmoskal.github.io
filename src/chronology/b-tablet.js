@@ -12,7 +12,7 @@ Elasticsearch constitutes the primary funnel for this boutique hotel site. I upg
 
 The upgrade was fairly straightforward, though both the ES mapping and the query syntax had changed considerably across 3 major versions. A good deal of the work was carried out at the python client level, including enhancements to the imports from the operational data store.
 
-We made significant improvements to to the auto-suggestion performance by taking advantage of the new autocomplete analyzer, refactoring the existing queries, and increasing the use of synonyms.
+We made significant improvements to the auto-suggestion performance by taking advantage of the new autocomplete analyzer, refactoring the existing queries, and increasing the use of synonyms.
 
 Tuning ES searches is an iterative process. I provided my client with some tooling that allowed us to quickly compare different versions of queries/mappings to arrive at the best possible behavior.
 
