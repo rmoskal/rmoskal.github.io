@@ -13,7 +13,7 @@ It was all too much. Plus, the original application dated from 2000. Many basic 
 
 Everyone was surprised to hear that my answer to requests for features was often “let's throw some shit out”. The home-grown blogging system was the first to go. We replaced it with a hosted version of Movable Type integrated with the main application via RSS and JSON. We replaced a rudimentary caching system with Akamai, eliminating pernicious errors that would crop up under heavy loads.
 
-I successfully mastered a complex technology stack to allow our partner to service a valuable clients needs and to expand the engagement.
+I successfully mastered a complex technology stack to allow our partner to service a valuable client's needs and to expand the engagement.
 
     
   `

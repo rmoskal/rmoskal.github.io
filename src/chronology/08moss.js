@@ -17,7 +17,7 @@ module.exports = {
     
     <a href="https://concretecomputing.com/">Matt Morgan</a> and I conducted interviews, shadowed the art handlers, shopped for scanners, work-shopped solutions, and integrated with their collections management system <a href="https://www.gallerysystems.com/tms-collections/tms-suite/tms/tms/" target="_blank">TMS</a>.  
      
-    We delivered the first production version of the system in the summer of 2024 and look forward continue to work with the museum to enhance it.
+    We delivered the first production version of the system in the summer of 2024 and look forward to continuing to work with the museum to enhance it.
     
     On the tech side I purposefully kept things simple. I settled on the excellent PocketBase system that delivers a backend in a single file along with SvelteKit which I think will be my goto web framework for new development.
 

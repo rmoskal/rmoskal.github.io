@@ -11,6 +11,6 @@ module.exports = {
    Javascript colonized the backend, and for the most part, for the better!
 
    Biggest mistake: placing a bet on Wicket as a frontend framework.  
-   I foisted an number of Wicket applications on clients who then had difficulty finding people to maintain them.
+   I foisted a number of Wicket applications on clients who then had difficulty finding people to maintain them.
       `
 }

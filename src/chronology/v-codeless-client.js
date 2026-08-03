@@ -5,6 +5,6 @@ module.exports = {
   stack:['<i class="fa-solid fa-pen-nib"></i>', 'architecture', '<i class="fa-brands fa-java"></i>'],
   roles: ['author'],
   body: `
-  Contraversial, maybe
+  Controversial, maybe
   `
 }

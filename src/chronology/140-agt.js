@@ -13,7 +13,7 @@ module.exports = {
 
   My involvement with AGT began with a gift/experiment. Could tech behind Itchy Knows, my hashtag aggregator, improve SEO for a directory site with more than 10 million pages.
 
-  Soon I was doing a lot more. My clients ability to progress and adapt was ham-strung by a legacy code-base that had been worked over by many hands over the course of a dozen years. I felt compelled to help.
+  Soon I was doing a lot more. My client's ability to progress and adapt was ham-strung by a legacy code-base that had been worked over by many hands over the course of a dozen years. I felt compelled to help.
 
   Working on my own and directing the efforts of a series of development partners it's now a modern and evolvable set of applications in PHP and python/apache beam for etl.
   

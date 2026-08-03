@@ -2,7 +2,7 @@ module.exports = {
   title:`iheadache`, 
   link:'http://www.iheadache.com/',
   when:'2013-2014',
-  stack:['B2B', 'SAAS', '<i class="fa-brands fa-java"></i>'],
+  stack:['B2B', 'SaaS', '<i class="fa-brands fa-java"></i>'],
   roles: ['principal'],
   long:true,
   body: `

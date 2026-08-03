@@ -6,7 +6,7 @@ module.exports = {
   roles: ['transformation', 'market-fit'],
   long:true,
   body: `
-Put in place the people, processes, and technology that transformed this meetings company from a print/video/event business to an digital one.
+Put in place the people, processes, and technology that transformed this meetings company from a print/video/event business to a digital one.
 
 Offerings included performance support, internal training materials, and sales force automation. Under my lead the business grew from nothing to eight figures ARR.
 
