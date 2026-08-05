@@ -6,6 +6,6 @@ module.exports = {
   roles: ['author'],
   long:false,
   body: `
-Business Process Engineering was once the purview of the wealthiest institutions. Thanks to coding agents, organizations of every size can reimagine the way their work gets done.
+Business Process Automation was once the purview of the wealthiest institutions. Thanks to coding agents, organizations of every size can reimagine the way their work gets done.
   `
 }
