@@ -1555,6 +1555,39 @@ ul li:before {
 	left: 5px;
 }
 
+/* Hero lead: the opening sentence set as a header. Same Haas 65 Medium as the
+   body (only 400/500 are loaded), so the step up is size, not weight. */
+#top .flex .text-regular .hero-lead {
+  margin: 0 0 0.5em;
+  font-size: 27px;
+  line-height: 1.2;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Hero subtle: the secondary block, boxed off between the lead and the bio.
+   Square black rule, no radius, no shadow. Type drops from Haas 65 Medium
+   (the body weight) to Haas 55 Regular and loses the body letter-spacing. */
+.hero-subtle {
+  margin: 18px 0 30px;
+  padding: 18px 20px 20px;
+  border: 2px solid #000;
+  background-color: #fff;
+  font-family: Haas, sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 1.45;
+  letter-spacing: 0;
+}
+
+#top .flex .hero-subtle p {
+  margin: 0 0 0.7em;
+}
+
+#top .flex .hero-subtle p:last-child {
+  margin-bottom: 0;
+}
+
 @font-face {
   font-family: 'Haas';
   src: url('../fonts/5d05288e85f49b739ba44bd9_NHaasGroteskDSPro-55Rg.otf') format('opentype');
