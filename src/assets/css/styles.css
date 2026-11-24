@@ -1196,6 +1196,8 @@ div.spread {
 
 .div-block-110 {
   position: fixed;
+  /* Above .headline (z-index 999), so the boxed hero text can't cover it. */
+  z-index: 1000;
   left: auto;
   top: auto;
   right: 0%;
