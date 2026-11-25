@@ -2584,22 +2584,30 @@
     document.body.onload = function() {
         const params = new URLSearchParams(window.location.search);
         let items = params.get("items");
-        if (!items)
-            return 
-
-           
-        items.split(',').map(o=>`c${o}`).forEach(
-            o=>{
-                el = document.getElementById(o)
-                if (!el) return;
-                const bodyDiv = el.querySelector('.truncate');
-                if (bodyDiv) bodyDiv.classList.remove("truncate");
-                el.style.border = 'dashed';
-                el.style.borderWidth = '2px';
-            }
-        )
-
-}
+        
+        if (items) {
+            items.split(',').map(o=>`c${o}`).forEach(
+                o=>{
+                    el = document.getElementById(o)
+                    if (!el) return;
+                    const bodyDiv = el.querySelector('.truncate');
+                    if (bodyDiv) bodyDiv.classList.remove("truncate");
+                    el.style.border = 'dashed';
+                    el.style.borderWidth = '2px';
+                }
+            )
+        } else {
+            // Auto-expand first item after a brief delay
+            setTimeout(() => {
+                const firstItem = document.getElementById('c0');
+                if (firstItem) {
+                    const bodyDiv = firstItem.querySelector('.truncate');
+                    if (bodyDiv) bodyDiv.classList.remove("truncate");
+                    firstItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }, 1500);
+        }
+    }
 
     
     </script>
